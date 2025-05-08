@@ -11,6 +11,6 @@ The Notebook is structured in the following sections:
 3. Univariate and Bivariate Analysis.
 4. Machine Learning and Regression Analysis (Decision Tree, Random Forests, Boosting, Multinomial Linear Regression)
 
-A dedicate paper is available, with Literature Review, summary of the methodology, main results, interpretations and conclusions. For the comprehensive analysis, we invite you to explore the full notebook available here.
+A dedicated paper is available, with literature review, summary of the methodology, main results, interpretations and conclusions. For the comprehensive analysis, we invite you to explore the full notebook available here.
 
 
