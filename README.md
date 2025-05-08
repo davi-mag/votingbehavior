@@ -1,5 +1,5 @@
 # votingbehavior
-Replication Package for Analysis of Voting Behavior in Italy in Python
+Replication Package for the Analysis of Voting Behavior in Italy in Python.
 
 This Notebook was produced by Irene Cozzi, Laura Guarnaschelli, Davide Magliano e Alessia Vanzella. Its aim is to replicate the analysis presented in the Sciences Po class on "Python andd Machine Learning" on the Voting behavior in Italy, titled "Voting Behavior in Italya: A Comprehensive Analysis and Efficient Prediction".
 
